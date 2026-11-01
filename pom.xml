@@ -14,7 +14,7 @@
   <url>https://docs.zevauth.com/sdk/java</url>
 
   <organization>
-    <name>ZevOp Inc.</name>
+    <name>Zevop Inc.</name>
     <url>https://zevauth.com</url>
   </organization>
 
@@ -29,8 +29,8 @@
   <developers>
     <developer>
       <id>zevop</id>
-      <name>ZevOp Inc.</name>
-      <organization>ZevOp Inc.</organization>
+      <name>Zevop Inc.</name>
+      <organization>Zevop Inc.</organization>
       <organizationUrl>https://zevauth.com</organizationUrl>
     </developer>
   </developers>
